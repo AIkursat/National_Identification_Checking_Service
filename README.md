@@ -3,7 +3,7 @@ This Example is About How to use Turkish Republic ID Number Checking Service. In
 
 Note: You must use this adress = https://tckimlik.nvi.gov.tr/Service/KPSPublic.asmx?WSDL, then add it to service references ( it located in references )
 
-Example:
+
  
 
 
